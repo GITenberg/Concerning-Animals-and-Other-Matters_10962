@@ -1,0 +1,37 @@
+_repo: Concerning-Animals-and-Other-Matters_10962
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aitken, Edward Hamilton
+    aliases:
+    - EHA
+    - Aitken, E. H. (Edward Hamilton)
+    birthdate: 1851
+    deathdate: 1909
+    gutenberg_agent_id: '2589'
+    url: http://www.gutenberg.org/2009/agents/2589
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Hamilton_Aitken
+description: ''
+gutenberg_bookshelf: Biology
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Natural history'
+- !lcsh 'Animal behavior'
+- !lcc 'QL'
+- !lcsh 'India -- Social life and customs'
+- GITenberg
+tableOfContents: 'Introduction: "Eha" -- Feet and hands -- Bills of birds -- Tails
+  -- Noses -- Ears -- Tommy -- The barn owl -- Domestic animals -- Snakes -- The Indian
+  snake-charmer -- Cures for snake-bite -- The cobra bungalow -- The panther I did
+  not shoot -- The Purbhoo -- The coconut tree -- The betel nut -- A Hindu festival
+  -- Indian poverty -- Borrowed Indian words.'
+title: Concerning Animals and Other Matters
+url: http://www.gutenberg.org/ebooks/10962
